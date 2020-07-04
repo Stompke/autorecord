@@ -5,14 +5,16 @@ import { Route, Link } from 'react-router-dom';
 
 // Components
 import Account from './components/Account'
+import RecordDashboard from './components/RecordDashboard'
 
 function App() {
   return (
     <div className="App">
       <Link to='/account'>Account</Link>
+      <Link to='/dashboard'>Dashboard</Link>
       <header className="App-header">
         <Route path='/account' component={Account} />
-      <h1>Auto Record</h1>
+        <Route path='/dashboard' component={RecordDashboard} />
       </header>
     </div>
   );
