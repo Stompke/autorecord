@@ -9,6 +9,8 @@ const RecordDashboard = () => {
         <>
         <h1>Record Dashboard</h1>
         <Record />
+        <Record />
+        <Record />
         </>
     )
 }
