@@ -8,9 +8,9 @@ const RecordDashboard = () => {
     return (
         <>
         <h1>Record Dashboard</h1>
-        <Record />
-        <Record />
-        <Record />
+        <Record vehicle='Porsche'/>
+        <Record vehicle='Odyssey'/>
+        <Record vehicle='Sidekick'/>
         </>
     )
 }
