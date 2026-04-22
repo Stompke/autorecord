@@ -178,6 +178,6 @@ body.bp5-dark {
 --color-chart-information-bold-hovered-foundation: var(--color-blue-400);
 --shadow-elevation-overflow-foundation: 0px 0px 12px rgba(3, 4, 4, 0.56),   0px 0px 1px rgba(3, 4, 4, 0.5);
 --shadow-elevation-raised-foundation: 0px 0px 0px rgba(0, 0, 0, 0),   0px 1px 1px rgba(3, 4, 4, 0.5),   0px 0px 1px rgba(3, 4, 4, 0.5);
---shadow-elevation-overlay-foundation: 0px 0px 0px rgba(57, 66, 74, 1),   0px 8px 12px rgba(3, 4, 4, 0.36),   0px 0px 1px rgba(3, 4, 4, 0.5);
+--shadow-elevation-overlay-foundation: 0px 0px 0px rgba(57, 66, 74, 1),   0px 8px 12px rgba(3, 4, 4, 0.36),   0px 4px 1px rgba(3, 4, 4, 0.5);
 --shadow-elevation-element-foundation: 0px 0.5px 1px 0px rgba(3, 4, 4, 0.31);
 }
