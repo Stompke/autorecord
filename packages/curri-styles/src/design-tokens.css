@@ -176,7 +176,7 @@
 --radius-xs: var(--scale-100);
 --radius-xs-sm: var(--scale-150);
 --radius-sm: var(--scale-200);
---radius-sm-m: var(--scale-300);
+--radius-sm-m: var(--scale-500);
 --radius-m: var(--scale-400);
 --radius-xl: var(--scale-600);
 --radius-xxl: var(--scale-800);
